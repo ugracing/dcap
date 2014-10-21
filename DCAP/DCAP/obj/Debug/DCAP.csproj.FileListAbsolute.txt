@@ -1,0 +1,9 @@
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\bin\Debug\DCAP.exe.config
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\bin\Debug\DCAP.exe
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\bin\Debug\DCAP.pdb
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\obj\Debug\DCAP.csprojResolveAssemblyReference.cache
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\obj\Debug\DCAP.FormDCAPHome.resources
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\obj\Debug\DCAP.Properties.Resources.resources
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\obj\Debug\DCAP.csproj.GenerateResource.Cache
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\obj\Debug\DCAP.exe
+c:\users\tdalgaty\documents\visual studio 2012\Projects\DCAP\DCAP\obj\Debug\DCAP.pdb
